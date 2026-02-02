@@ -78,7 +78,8 @@ A self-checking testbench (`tb_timer_top.v`) is used to verify:
 - Interrupt clear using W1C semantics
 
 ### Simulation Waveform
-![Simulation Waveform](sim/waveforms/timer_irq_waveform.png)
+![Simulation Waveform](../sim/waveforms/timer_irq_waveform.png)
+
 
 ---
 
