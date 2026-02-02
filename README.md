@@ -26,6 +26,7 @@ The timer peripheral consists of three main hardware blocks:
 ### Block Diagram
 ![Block Diagram](docs/block_diagram.png)
 
+
 ---
 
 ## 3. Register Map
