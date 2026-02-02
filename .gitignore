@@ -1,0 +1,16 @@
+# Vivado
+*.jou
+*.log
+*.str
+*.xpr
+*.runs/
+*.cache/
+*.hw/
+*.sim/
+
+# Waveform temp files
+*.wdb
+
+# OS
+.DS_Store
+Thumbs.db
