@@ -23,8 +23,6 @@ The timer peripheral consists of three main hardware blocks:
 - **Interrupt Controller (`irq_ctrl`)**  
   Latches interrupt events and generates a CPU interrupt request.
 
-### Block Diagram
-![Block Diagram](docs/block_diagram.png)
 
 
 ---
@@ -77,8 +75,6 @@ A self-checking testbench (`tb_timer_top.v`) is used to verify:
 - Interrupt assertion on timer expiration
 - Interrupt clear using W1C semantics
 
-### Simulation Waveform
-![Simulation Waveform](../sim/waveforms/timer_irq_waveform.png)
 
 
 ---
